@@ -17,4 +17,4 @@ _italics_
 :memo:
 :warning:
 :smile:
-😸 :
+:smileycat:
