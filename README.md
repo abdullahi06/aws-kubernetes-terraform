@@ -11,9 +11,8 @@ _italics_
 [my hyperlink](https://www.google.com/)
 ```hcl
  
-  "environment" = "dev"
+  "environment" = "dev"  
   
-}
 ```
 :memo:
 :warning:
